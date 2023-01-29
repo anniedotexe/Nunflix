@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+.navbar {
+    display: flex;
+    position: fixed;
+    top: 0;
+    padding: 20px;
+    width: 100%;
+    height: 30px;
+    z-index: 1;
+    justify-content: space-between;
+    transition-timing-function: ease-in;
+    transition: all 0.5s;
+}
+
+.navbar_black {
+    background-color: #111;
+}
+
+.navbar h1 {
+    font-family: 'Bebas Neue', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #E50914;
+    letter-spacing: 0.1em;
+    font-size: 2.35em;
+    position: fixed;
+    left: 20px;
+}
+
+.navbar_avatar {
+    width: 30px;
+    object-fit: contain;
+    position: fixed;
+    right: 20px;
+}
