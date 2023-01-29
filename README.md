@@ -31,7 +31,7 @@ Here's what you need to do to get this running locally on your computer.
 1. Register for a TMDB API key by following the instructions [here](https://developers.themoviedb.org/3) to be able to use the API to pull in data and images displayed on the site
 1. Clone the project to your machine with\
 `git clone https://github.com/anniedotexe/Nunflix.git`
-1. Add the key in this line in the `request.js` file\
+1. Add the API key in this line in the `request.js` file\
 `const API_KEY = 'paste key in here'`
 1. On a command line inside of the application's folder, run\
 `npm start`
