@@ -37,7 +37,7 @@ function Banner() {
                     </h1>
                     {/* 2 BUTTONS */}
                     <div className='banner_buttons'>
-                        <a href="https://www.youtube.com/watch?v=qBdSfbljde4" target="_blank" rel="noreferrer"><button className='banner_button'>
+                        <a href="https://www.netflix.com/title/80242724" target="_blank" rel="noreferrer"><button className='banner_button'>
                             Play
                         </button></a>
                         <a href="https://www.change.org/p/renew-warrior-nun-for-season-3" target="_blank" rel="noreferrer"><button className='banner_button'>
