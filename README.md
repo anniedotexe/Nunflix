@@ -1,6 +1,8 @@
 # [Nunflix](https://nunflix-6e5b3.web.app/) - A Netflix Clone
 
-This is Nunflix, a frontend clone of Netflix's home page made just for the Netflix original series [Warrior Nun](https://www.imdb.com/title/tt9059350/).
+This is Nunflix, a frontend clone of Netflix's home page made just for the Netflix original series [Warrior Nun](https://www.imdb.com/title/tt9059350/) that was untimely cancelled after 2 seasons.
+
+*Learn more about the #SaveWarriorNun campaign at [linktr.ee/savewarriornun](https://linktr.ee/savewarriornun)*
 
 **LIVE DEMO** - [nunflix-6e5b3.web.app](https://nunflix-6e5b3.web.app/) OR [nunflix-6e5b3.firebaseapp.com](https://nunflix-6e5b3.firebaseapp.com/)
 
