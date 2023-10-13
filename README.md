@@ -1,8 +1,12 @@
 # [Nunflix](https://nunflix-6e5b3.web.app/) - A Netflix Clone
 
-This is Nunflix, a frontend clone of Netflix's home page made just for the Netflix original series [Warrior Nun](https://www.imdb.com/title/tt9059350/) that was unjustifiably cancelled after 2 seasons.
+This is Nunflix, a frontend clone of Netflix's home page made just for the Netflix original series [Warrior Nun](https://www.imdb.com/title/tt9059350/).
 
 *Learn more about the series and campaign at [warriornun.com](https://www.warriornun.com/) and [linktr.ee/savewarriornun](https://linktr.ee/savewarriornun)*
+
+> Today I’m happy to officially report that because of your combined voices, passion and amazing efforts - #WarriorNun will return and is going to be more EPIC than you could imagine. More details to come! SOON! Thank-you!! #SaveWarriorNun #WarriorNunSaved ❤️🎬
+> 
+> 10:16 PM · Jun 27, 2023 · [@SimonDavisBarry](https://twitter.com/SimonDavisBarry/status/1673923368381448192) via Twitter
 
 **LIVE DEMO** - [nunflix-6e5b3.web.app](https://nunflix-6e5b3.web.app/) OR [nunflix-6e5b3.firebaseapp.com](https://nunflix-6e5b3.firebaseapp.com/)
 
