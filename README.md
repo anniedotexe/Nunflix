@@ -8,7 +8,8 @@ This is Nunflix, a frontend clone of Netflix's home page made just for the Netfl
 > 
 > 10:16 PM · Jun 27, 2023 · [@SimonDavisBarry](https://twitter.com/SimonDavisBarry/status/1673923368381448192) via Twitter
 
-**LIVE DEMO** - [nunflix-6e5b3.web.app](https://nunflix-6e5b3.web.app/) OR [nunflix-6e5b3.firebaseapp.com](https://nunflix-6e5b3.firebaseapp.com/) (NOT WORKING AT THE MOMENT)
+**LIVE DEMO** - (NOT WORKING AT THE MOMENT, commented them out)
+<!-- [nunflix-6e5b3.web.app](https://nunflix-6e5b3.web.app/) OR [nunflix-6e5b3.firebaseapp.com](https://nunflix-6e5b3.firebaseapp.com/) -->
 
 <p align="center">
     <img alt="React" src="https://img.shields.io/badge/-React-61DBFB?style=flat&logo=react&logoColor=FFFFFF"/>
