@@ -1,4 +1,4 @@
-# [Nunflix](https://nunflix-6e5b3.web.app/) - A Netflix Clone
+# Nunflix - A Netflix Clone
 
 This is Nunflix, a frontend clone of Netflix's home page made just for the Netflix original series [Warrior Nun](https://www.imdb.com/title/tt9059350/).
 
