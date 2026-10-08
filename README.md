@@ -4,10 +4,6 @@ This is Nunflix, a frontend clone of Netflix's home page made just for the Netfl
 
 *Learn more about the series and campaign at [linktr.ee/savewarriornun](https://linktr.ee/savewarriornun)*
 
-> Today I’m happy to officially report that because of your combined voices, passion and amazing efforts - #WarriorNun will return and is going to be more EPIC than you could imagine. More details to come! SOON! Thank-you!! #SaveWarriorNun #WarriorNunSaved ❤️🎬
-> 
-> 10:16 PM · Jun 27, 2023 · [@SimonDavisBarry](https://twitter.com/SimonDavisBarry/status/1673923368381448192) via Twitter
-
 **LIVE DEMO** - (REMOVED FOR NOW, there was an issue with the API I think)
 
 <p align="center">
