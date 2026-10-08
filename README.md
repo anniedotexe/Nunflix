@@ -2,7 +2,7 @@
 
 This is Nunflix, a frontend clone of Netflix's home page made just for the Netflix original series [Warrior Nun](https://www.imdb.com/title/tt9059350/).
 
-*Learn more about the series and campaign at [warriornun.com](https://www.warriornun.com/) and [linktr.ee/savewarriornun](https://linktr.ee/savewarriornun)*
+*Learn more about the series and campaign at [linktr.ee/savewarriornun](https://linktr.ee/savewarriornun)*
 
 > Today I’m happy to officially report that because of your combined voices, passion and amazing efforts - #WarriorNun will return and is going to be more EPIC than you could imagine. More details to come! SOON! Thank-you!! #SaveWarriorNun #WarriorNunSaved ❤️🎬
 > 
