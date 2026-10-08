@@ -4,7 +4,7 @@ This is Nunflix, a frontend clone of Netflix's home page made just for the Netfl
 
 *Learn more about the series and campaign at [linktr.ee/savewarriornun](https://linktr.ee/savewarriornun)*
 
-**LIVE DEMO** - (REMOVED FOR NOW, there was an issue with the API I think)
+**LIVE DEMO** - (REMOVED FOR NOW, there was an issue with the API and I don't feel like fixing/upkeeping it)
 
 <p align="center">
     <img alt="React" src="https://img.shields.io/badge/-React-61DBFB?style=flat&logo=react&logoColor=FFFFFF"/>
